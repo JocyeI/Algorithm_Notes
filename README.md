@@ -1,6 +1,3 @@
-# Algorithm_Notes
-
-
 <h1 align="center">数据结构与算法✨.</h1>
 <p align="center">
  <a href="https://github.com/Walhalla-Summary/Algorithm_Notes">
